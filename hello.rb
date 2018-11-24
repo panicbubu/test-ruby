@@ -1,1 +1,1 @@
-print "salut"
+print "Salut" 
